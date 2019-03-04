@@ -7,11 +7,15 @@ import QRScanner from "./qrScanner";
 function App() {
   return (
     <div className="App">
+      <div class="ribbon">
+        A work by Sadiq
+        <br /> mdsadiq6692@gmail.com
+      </div>
       <h2>Web QR Checkin Application</h2>
       <h4>You are looking at a simple proof of concept</h4>
       <QRCreator />
       <br />
-      <div>
+      <div style={{ margin: 10 }}>
         <QRScanner />
       </div>
     </div>
