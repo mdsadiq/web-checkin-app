@@ -2,3 +2,14 @@
   font-family: sans-serif;
   text-align: center;
 }
+.ribbon {
+  font-family: "Carter One", cursive;
+  font-size: larger;
+  text-align: center;
+  color: #f0f0f0;
+  position: fixed;
+  width: 100%;
+  padding: 10px;
+  top: 0px;
+  background-color: #39d;
+}
