@@ -15,7 +15,7 @@ function App() {
       <h4>You are looking at a simple proof of concept</h4>
       <QRCreator />
       <br />
-      <div>
+      <div style={{ margin: 10 }}>
         <QRScanner />
       </div>
     </div>
