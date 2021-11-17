@@ -7,7 +7,7 @@ import QRScanner from "./qrScanner";
 function App() {
   return (
     <div className="App">
-      <div class="ribbon">
+      <div className="ribbon">
         A work by Sadiq
         <br /> mdsadiq6692@gmail.com
       </div>
